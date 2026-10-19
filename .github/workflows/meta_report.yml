@@ -1,5 +1,5 @@
 
-name: Meta Ads Report
+name: meta-to-sheets
 
 on:
   workflow_dispatch:
